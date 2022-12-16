@@ -44,6 +44,6 @@ resource "heroku_addon" "database" {
 resource "heroku_build" "contact_center" {
   app = heroku_app.default.id
   source = {
-    url = "https://github.com/nash-md/twilio-contact-center/tarball/master"
+    url = "https://github.com/aisoftware/blackfyre-contact-center/tarball/master"
   }
 }

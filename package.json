@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": "aisoftware/blackfyre-contact-center",
   "main": "app.js",
-  "bugs": "https://github.com/nash-md/twilio-contact-center/issues",
+  "bugs": "https://github.com/aisoftware/blackfyre-contact-center/issues",
   "private": false,
   "keywords": [
     "Twilio",
