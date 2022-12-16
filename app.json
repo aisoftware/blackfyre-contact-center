@@ -1,10 +1,10 @@
 {
-  "name": "Twilio Contact Center",
+  "name": "Blackfyre Contact Center",
   "description": "A web-based contact center utilizing Twilio Client, Chat, Video, SMS and TaskRouter",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["node", "express", "twilio"],
   "image": "heroku/nodejs",
-  "repository": "https://github.com/nash-md/twilio-contact-center",
+  "repository": "https://github.com/aisoftware/blackfyre-contact-center",
   "addons": ["heroku-postgresql:mini"],
   "success_url": "/setup",
   "env": {
